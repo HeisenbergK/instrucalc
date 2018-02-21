@@ -1,2 +1,2 @@
 # instrucalc
-Calculator for instrumentation
+A Calculator for instrumentation
