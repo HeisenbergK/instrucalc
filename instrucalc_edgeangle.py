@@ -1,10 +1,9 @@
 dtelmm = 0.0  # diameter of the telescope's primary mirror in mm
 dtelm = 1.3  # diameter of the telescope's primary mirror in m
-dcolmm = 37.5  # diameter of collimmator in mm
+dcolmm = 65.0  # diameter of collimmator in mm
 dcolin = 0.0  # diameter of collimmator in inches
 fov = 0.5  # full field-of-view in degrees
 hfov = 0.0  # half field of view in degrees
-safespacemm = 10.0  # safespace for the colimmator
 
 dtelmm = float(dtelmm)
 dtelm = float(dtelm)

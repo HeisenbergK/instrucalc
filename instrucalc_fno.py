@@ -19,5 +19,5 @@ fovfno = 206265/(dtel*platefov)  # f/# when using the platefov
 
 print("The fwhm-respecting platescale is %.3f arcsec/mm. This will make the FOV=%.3f degrees=%.3f arcmin."
       " The corresponding f/# is %.3f" % (platefwhm, newfov, newfovarcmin, fwhmfno))
-print("The FOW-respecting platescale is %.3f arcsec/mm. This will make the fwhm occupy %.3f pixels."
+print("The FOV-respecting platescale is %.3f arcsec/mm. This will make the fwhm occupy %.3f pixels."
       " The corresponding f/# is %.3f" % (platefov, newfwhm, fovfno))
