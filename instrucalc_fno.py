@@ -4,7 +4,7 @@ pixels = 15.0  # pixel width in um
 pixels = pixels/1000  # pixel width in mm
 resolution = 4.0  # resolution modulus
 fwhm = 1.0  # fwhm in arcsec
-dtel = 1.3  # telescope diameter in meters
+dtel = 1.290  # telescope diameter in meters
 dtel *= 1000  # telescope diameter in mm
 
 platefwhm = fwhm/(2.5*pixels)  # platescale projecting 1 fwhm into 2.5 pixels in arcsec/mm
